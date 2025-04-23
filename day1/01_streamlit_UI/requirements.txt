@@ -2,3 +2,9 @@ streamlit
 pandas
 numpy
 pyngrok
+torch
+transformers
+nltk
+scikit-learn
+accelerate
+janome
